@@ -1,0 +1,26 @@
+[
+  {
+    "$type": "PetShelter.Model.Core.Shelter, PetShelter.Model",
+    "name": "Добрые лапки",
+    "capacity": 15,
+    "hasOpenYard": true
+  },
+  {
+    "$type": "PetShelter.Model.Core.Shelter, PetShelter.Model",
+    "name": "Верный друг",
+    "capacity": 10,
+    "hasOpenYard": false
+  },
+  {
+    "$type": "PetShelter.Model.Core.Shelter, PetShelter.Model",
+    "name": "Надежда",
+    "capacity": 20,
+    "hasOpenYard": true
+  },
+  {
+    "$type": "PetShelter.Model.Core.Shelter, PetShelter.Model",
+    "name": "Любимец",
+    "capacity": 12,
+    "hasOpenYard": false
+  }
+]
